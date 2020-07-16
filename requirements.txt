@@ -1,0 +1,3 @@
+ray==0.8.6
+asciimatics==1.11.0
+get-mac==0.8.2
