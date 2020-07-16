@@ -1,6 +1,7 @@
 # pingthing
 
-Summary of your local network (htop style).
+Summary of your local network (htop style).  
+In Alpha release ATM.
 
 ![Screenshot](ping_thing_redacted.png "Sreenshot")
 
@@ -25,6 +26,15 @@ inadequate or overly cumbersome.
       --bw                 Black/white mode (colour blind safe).
 
 NB: to quite press 'q'
+
+## Installation
+    # To install
+    git clone git@github.com:busyDuckman/pingthing.git
+    cd pingthing
+    pip3 install requirements.txt
+    
+    # To run
+    ./pingthing.py
 
 #### Licence 
 Licenced under the MIT License, see LICENSE for details.
