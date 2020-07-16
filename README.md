@@ -27,7 +27,7 @@ inadequate or overly cumbersome.
 
 NB: to quite press 'q'
 
-## Installation
+#### Installation
     # To install
     git clone git@github.com:busyDuckman/pingthing.git
     cd pingthing
