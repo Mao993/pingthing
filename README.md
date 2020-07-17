@@ -1,4 +1,4 @@
-# pingthing
+# Pingthing
 
 Summary of your local network (htop style).  
 In Alpha release ATM.
@@ -25,7 +25,7 @@ inadequate or overly cumbersome.
                            defaults to: flag,ip,ping,mean,best,worst,sd,up-time,last-outage,name,services,mac,manufacturer
       --bw                 Black/white mode (colour blind safe).
 
-NB: to quite press 'q'
+NB: to quit press 'q'
 
 #### Installation
     # To install
